@@ -1,0 +1,31 @@
+.body {
+    background-color: #87ceed;
+    color: #87ceed;
+}
+div[class="E-D"] {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+}
+.P-A{
+    width: 120px;
+    height: 50px;
+    border-radius: 30px;
+    padding: 30px;
+    background-color: #ffffff;
+    font-size: 40pxpx;
+}
+.spacing-word {
+    width: 300px;
+    opacity: 0%;
+}
+.C-A{
+    width: 100px;
+    height: 50px;
+    border-radius: 30px;
+    padding: 30px;
+    background-color: #ffffff;
+    font-size: 40pxpx;
+}
